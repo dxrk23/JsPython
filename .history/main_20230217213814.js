@@ -1,4 +1,4 @@
-let bool = false
+let bool = false>
 
 if ( bool ) {
     console.log('Its true')

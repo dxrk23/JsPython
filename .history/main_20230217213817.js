@@ -1,5 +1,4 @@
 let bool = false
-
 if ( bool ) {
     console.log('Its true')
 } else if ( !bool ) {
