@@ -1,8 +1,8 @@
-let a = false
+let b = false
 
-if ( a ) {
+if ( bool ) {
     console.log('Its true')
-} else if ( !a ) {
+} else if ( !bool ) {
     console.log( 'Its false' )
 } else {
     console.log( 'Never happends' )
